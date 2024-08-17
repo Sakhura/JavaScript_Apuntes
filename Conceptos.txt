@@ -29,3 +29,7 @@ Redeclaración:
 Compatibilidad:
     var: es compatible con todas las versiones de JavaScript
     let: es compatible con las versiones de JavaScript 2015 en adelante.
+
+Acumulador
+        un acumulador es un tipo especial de variable que se incrementa o decrementa con valores variables
+        durante la ejecución del programa
