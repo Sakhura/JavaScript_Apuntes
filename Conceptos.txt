@@ -30,6 +30,18 @@ Compatibilidad:
     var: es compatible con todas las versiones de JavaScript
     let: es compatible con las versiones de JavaScript 2015 en adelante.
 
-Acumulador
+Acumulador:
         un acumulador es un tipo especial de variable que se incrementa o decrementa con valores variables
         durante la ejecución del programa
+
+Funciones:
+    Con funciones podemos segmentar un programa en varias partes.
+    Frente a un problema, planteamos un algoritmo, éste puede constar de pequeños algoritmos.
+    Una función es un conjunto de instrucciones que resuelven una parte del problema y que puede ser 
+    utilizado (llamado) desde diferentes partes de un programa.
+    Consta de un nombre y parámetros.
+    Con el nombre llamamos a la función, es decir, hacemos referencia a la misma.
+    Los parámetros son valores que se envían y son indispensables para la resolución del mismo.
+    La función realizará alguna operación con los parámetros que le enviamos. Podemos cargar una variable, 
+    consultarla, modificarla, imprimirla, etc.
+
