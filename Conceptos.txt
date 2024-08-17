@@ -1,0 +1,31 @@
+Algoritmo: Son los pasos a seguir para resolver un problema.
+
+
+Programa: Conjunto de instrucciones que entiende un ordenador para realizar una actividad. Todo programa tiene un objetivo bien definido: un procesador de texto es un programa que permite cargar, modificar e imprimir textos, un programa de ajedrez permite jugar al ajedrez contra el ordenador u otro contrincante humano. La actividad fundamental del programador es resolver problemas empleando el ordenador como herramienta fundamental. Para la resolución de un problema hay que plantear un algoritmo.
+
+
+Lenguaje de programación: Conjunto de instrucciones que son interpretadas por una computadora para realizar operaciones, mostrar datos por pantalla, sacar listados por impresora, entrar datos por teclado, etc.
+Nosotros aprenderemos a programar utilizando el lenguaje de programación JavaScript.
+Para desarrollar este curso no requerimos ningún conocimiento de otro lenguaje.
+
+Tipos de variables comunes:
+
+Númericas (entero, decimal)
+textos
+booleanas (true / false)
+objetos
+funcion
+
+Diferencia entre "let" y "var"
+
+Ambito: 
+    var : tienen ambito de funcion, son accesibles en cualquier funcion que se declara.
+    let : tienen ambito de bloque, son accesibles solo en el bloque donde se declaran.
+
+Redeclaración:
+    var: son hoisted (elevadas) al principio de la función, pueden ser utilizadas antes de ser declaradas.
+    let: no son hoisted, no se pueden utilizar antes de ser declaradas.
+
+Compatibilidad:
+    var: es compatible con todas las versiones de JavaScript
+    let: es compatible con las versiones de JavaScript 2015 en adelante.

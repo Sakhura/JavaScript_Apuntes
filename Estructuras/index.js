@@ -1,0 +1,10 @@
+        let valor1 = '1';
+        let valor2 = '1';
+        let suma1 = valor1 + valor2;
+        document.write('La suma como cadena ');
+        document.write(suma1);
+        document.write('<br>');
+        let suma2 = parseInt(valor1) + parseInt(valor2);
+        document.write('La suma como enteros ');
+        document.write(suma2);
+        document.write('<br>');
